@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Mike&#x27;s Musings</title>
+    <link href="https://mikemcarthurnz/feed.xml" rel="self" />
+    <link href="https://mikemcarthurnz" />
+    <updated>2021-12-15T20:57:58+13:00</updated>
+    <author>
+        <name>Mike McArthur</name>
+    </author>
+    <id>https://mikemcarthurnz</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Mike McArthur</name>
+        </author>
+        <link href="https://mikemcarthurnz/hello-world/"/>
+        <id>https://mikemcarthurnz/hello-world/</id>
+
+        <updated>2021-12-15T20:57:58+13:00</updated>
+            <summary>
+                <![CDATA[
+                    Test post 15 Dec 2021
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test post 15 Dec 2021</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
