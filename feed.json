@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Mike&#x27;s Musings",
     "description": "",
-    "home_page_url": "https://mikemcarthurnz",
-    "feed_url": "https://mikemcarthurnz/feed.json",
+    "home_page_url": "https://mikemcarthur.nz",
+    "feed_url": "https://mikemcarthur.nz/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mike McArthur"
     },
     "items": [
         {
-            "id": "https://mikemcarthurnz/hello-world/",
-            "url": "https://mikemcarthurnz/hello-world/",
+            "id": "https://mikemcarthur.nz/hello-world/",
+            "url": "https://mikemcarthur.nz/hello-world/",
             "title": "Hello World",
             "summary": "Test post 15 Dec 2021",
             "content_html": "<p>Test post 15 Dec 2021</p>",

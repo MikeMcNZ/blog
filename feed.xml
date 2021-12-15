@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Mike&#x27;s Musings</title>
-    <link href="https://mikemcarthurnz/feed.xml" rel="self" />
-    <link href="https://mikemcarthurnz" />
+    <link href="https://mikemcarthur.nz/feed.xml" rel="self" />
+    <link href="https://mikemcarthur.nz" />
     <updated>2021-12-15T20:57:58+13:00</updated>
     <author>
         <name>Mike McArthur</name>
     </author>
-    <id>https://mikemcarthurnz</id>
+    <id>https://mikemcarthur.nz</id>
 
     <entry>
         <title>Hello World</title>
         <author>
             <name>Mike McArthur</name>
         </author>
-        <link href="https://mikemcarthurnz/hello-world/"/>
-        <id>https://mikemcarthurnz/hello-world/</id>
+        <link href="https://mikemcarthur.nz/hello-world/"/>
+        <id>https://mikemcarthur.nz/hello-world/</id>
 
         <updated>2021-12-15T20:57:58+13:00</updated>
             <summary>
